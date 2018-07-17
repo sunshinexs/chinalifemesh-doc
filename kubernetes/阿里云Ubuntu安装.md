@@ -1,8 +1,10 @@
+kubernetes 1.11.0
+
 在阿里云上准备了三台机器：
 
 角色 | 主机名 | 外网IP地址 | 内网IP地址 | 安装服务
 ---- | --- | --- | --- | ---
-Master | clic_k8s_master | 42.92.173.92|172.26.90.75 | kube-apiserver kube-controller-manager kube-scheduler etcd
+Master | clic_k8s_master | 42.92.173.92|172.26.90.75 | kube-apiserver kube-controller-manager kube-scheduler etcd(2.2.5)
 Node | clic_k8s_node1 | 47.92.102.90|172.26.90.72 | kubelet kube-proxy docker flannel
 Node | clic_k8s_node2 | 47.92.167.112|172.26.90.73 | kubelet kube-proxy docker flannel
 
