@@ -15,5 +15,6 @@ Node | clic_k8s_node2 | 47.92.167.112|172.26.90.73 | kubelet kube-proxy docker f
 # echo "deb https://mirrors.aliyun.com/kubernetes/apt kubernetes-xenial main" > /etc/apt/sources.list
 ```
 2. 后续安装参考：
+* [Kubernetes在CentOS7下二进制文件方式安装、离线安装](https://blog.csdn.net/chen798213337/article/details/78501042)
 * [ubuntu下使用kubeadm安装部署kubernetes v1.10](https://blog.csdn.net/qq_37423198/article/details/79762687)
 * [用kubeadm在Ubuntu上快速构建Kubernetes测试集群](https://github.com/rootsongjc/kubernetes-handbook/blob/master/practice/install-kubernetes-on-ubuntu-server-16.04-with-kubeadm.md)
