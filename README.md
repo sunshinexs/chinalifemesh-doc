@@ -8,3 +8,5 @@ Collection of Kubernetes and ServiceMesh with Istio.
 #### 相关链接
 
 * 20190517 [服务迁移之路 | Spring Cloud向Service Mesh转变](https://mp.weixin.qq.com/s/rETWKlICcHwARI80MQVBsg)
+* **20180403 [What Is a Service Mesh?](https://www.nginx.com/blog/what-is-a-service-mesh/)(From Nginx)**
+
