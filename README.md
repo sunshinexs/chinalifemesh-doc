@@ -13,3 +13,8 @@ Collection of Kubernetes and ServiceMesh with Istio.
 * 20180613 [蚂蚁金服是如何实现经典服务化架构向Service Mesh方向演进的？](http://www.servicemesher.com/blog/migrating-from-classical-soa-to-service-mesh-in-ant-financial/)
 * **20180403 [What Is a Service Mesh?](https://www.nginx.com/blog/what-is-a-service-mesh/)(From Nginx)**
 * **20180111 [解读 2017 之 Service Mesh：群雄逐鹿烽烟起](https://www.infoq.cn/article/2017-service-mesh)**
+
+
+#### 最新动态
+* 20190525 [Service Mesh发展趋势：云原生中流砥柱](https://skyao.io/talk/201905-servicemesh-development-trend/?from=groupmessage&isappinstalled=0)
+* 20190522 [意外！微软发布Service Mesh Interface（ SMI）新服务网格规范](https://mp.weixin.qq.com/s/fRPVwNBpMxgVwweDtof-cQ)
