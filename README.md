@@ -6,7 +6,6 @@ Collection of Kubernetes and ServiceMesh with Istio.
 
 
 #### 相关链接
-
 * 20190517 [服务迁移之路 | Spring Cloud向Service Mesh转变](https://mp.weixin.qq.com/s/rETWKlICcHwARI80MQVBsg)
 * **20190219 [下一代微服务！Service Mesh 2018 年度总结](https://www.infoq.cn/article/DtxylyFwlyl7K5Jte*WI)**
 * 20181210 [Benchmarking 5 Popular Load Balancers: Nginx, HAProxy, Envoy, Traefik, and ALB](https://www.loggly.com/blog/benchmarking-5-popular-load-balancers-nginx-haproxy-envoy-traefik-and-alb/)
@@ -15,6 +14,10 @@ Collection of Kubernetes and ServiceMesh with Istio.
 * **20180111 [解读 2017 之 Service Mesh：群雄逐鹿烽烟起](https://www.infoq.cn/article/2017-service-mesh)**
 
 
+#### 行业产品
+* 20190525 【AWS】[译：用AWS App Mesh重新定义应用通讯](https://skyao.io/talk/201905-servicemesh-development-trend/?from=groupmessage&isappinstalled=0)
+
+
 #### 最新动态
-* 20190525 [Service Mesh发展趋势：云原生中流砥柱](https://skyao.io/talk/201905-servicemesh-development-trend/?from=groupmessage&isappinstalled=0)
+* 20190525 [Service Mesh发展趋势：云原生中流砥柱](https://skyao.io/post/201904-aws-app-mesh/)
 * 20190522 [意外！微软发布Service Mesh Interface（ SMI）新服务网格规范](https://mp.weixin.qq.com/s/fRPVwNBpMxgVwweDtof-cQ)
