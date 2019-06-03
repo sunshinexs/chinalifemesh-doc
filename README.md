@@ -1,6 +1,7 @@
 Collection of Kubernetes and ServiceMesh with Istio.
 
 #### 社区
+* ServiceMesher 社区中文资料库：https://github.com/servicemesher/trans
 * ServiceMesh论坛：https://groups.google.com/forum/#!categories/servicemesher
 * 容器与Kubernetes QA社区：https://github.com/rootsongjc/qa/issues/1
 
