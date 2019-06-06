@@ -18,6 +18,7 @@ Collection of Kubernetes and ServiceMesh with Istio.
 
 #### 行业产品
 * 20190525 【AWS】[译：用AWS App Mesh重新定义应用通讯](https://skyao.io/talk/201905-servicemesh-development-trend/?from=groupmessage&isappinstalled=0)
+* 20190221 【Weibo】[丁振凯 | 深度解读微博Service Mesh大规模实践 - Weibo Mesh](https://www.msup.com.cn/share/details?id=198)
 
 
 #### 最新动态
