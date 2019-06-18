@@ -7,6 +7,7 @@ Collection of Kubernetes and ServiceMesh with Istio.
 
 
 #### 相关资料
+* 20190602 [基于Consul服务发现的istio](http://ljchen.net/2019/06/02/%E5%9F%BA%E4%BA%8Econsul%E6%9C%8D%E5%8A%A1%E5%8F%91%E7%8E%B0%E7%9A%84istio/)
 * 20190517 [服务迁移之路 | Spring Cloud向Service Mesh转变](https://mp.weixin.qq.com/s/rETWKlICcHwARI80MQVBsg)
 * **20190219 [下一代微服务！Service Mesh 2018 年度总结](https://www.infoq.cn/article/DtxylyFwlyl7K5Jte*WI)**
 * 20181210 [Benchmarking 5 Popular Load Balancers: Nginx, HAProxy, Envoy, Traefik, and ALB](https://www.loggly.com/blog/benchmarking-5-popular-load-balancers-nginx-haproxy-envoy-traefik-and-alb/)
