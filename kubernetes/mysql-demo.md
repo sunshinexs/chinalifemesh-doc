@@ -4,3 +4,5 @@ QC list
   * https://www.linuxhub.org/?p=4572
 * K8S初体验--单机部署kubernetes
   * http://www.16boke.com/article/detail/248
+* 手动升级kubernetes集群
+  * https://jimmysong.io/kubernetes-handbook/practice/manually-upgrade.html
